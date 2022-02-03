@@ -1,6 +1,6 @@
 # la_plaza
 
-A new Flutter project.\n
+A new Flutter project
 
 ## Getting Started
 
